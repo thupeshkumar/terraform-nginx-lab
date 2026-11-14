@@ -1,0 +1,4 @@
+aws_region       = "ap-south-1"
+public_subnet_id = "subnet-0123456789abcdef0"
+key_name         = "your-existing-ec2-key-pair"
+ssh_cidr         = "203.0.113.10/32"
